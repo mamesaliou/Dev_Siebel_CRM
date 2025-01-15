@@ -3,7 +3,7 @@ Semaine 3 :
     Mercredi 15/01 :
         09h00 - 13h00 :
             Siebel :
-                Siebel Fundamentals :
+                Fundamentals Guide:
                     https://docs.oracle.com/cd/F26413_09/books/FundOUI/fundamentals-guide.pdf
         14h00 - 18h00 : Javascript / HTML / CSS
     Jeudi 16/01 :
