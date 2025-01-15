@@ -4,7 +4,7 @@ Semaine 3 :
         09h00 - 13h00 :
             Siebel :
                 Siebel Fundamentals :
-                    [Siebel Fundamentals PDF](https://docs.oracle.com/cd/B40099_02/books/PDF/Fundamentals.pdf)
+                    https://docs.oracle.com/cd/B40099_02/books/PDF/Fundamentals.pdf
         14h00 - 18h00 : Javascript / HTML / CSS
     Jeudi 16/01 :
         09h00 - 13h00 : Siebel
