@@ -5,7 +5,7 @@ Semaine 3 :
             Siebel :
                 Fundamentals Guide:
                     https://docs.oracle.com/cd/F26413_09/books/FundOUI/fundamentals-guide.pdf
-        14h00 - 18h00 : Javascript / HTML / CSS
+        14h00 - 18h00 : Javascript / TypeScript/ HTML5 / CSS3
     Jeudi 16/01 :
         09h00 - 13h00 : Siebel
         14h00 - 18h00 : XML
