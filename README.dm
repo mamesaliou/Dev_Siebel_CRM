@@ -8,7 +8,6 @@ Semaine 3 :
         14h00 - 18h00 : Javascript / TypeScript/ HTML5 / CSS3
     Jeudi 16/01 :
         09h00 - 13h00 :
-            09h00 - 13h00 :
             Siebel :
                 Architecture de Siebel :
                     https://docs.oracle.com/cd/F26413_09/books/DeplmtPlan/siebel-architecture-overview.html#Language-Pack-Installation
