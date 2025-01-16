@@ -9,11 +9,14 @@ Semaine 3 :
     Jeudi 16/01 :
         09h00 - 13h00 :
             Siebel :
-                Architecture de Siebel :
+                Siebel Architecture :
                     https://docs.oracle.com/cd/F26413_09/books/DeplmtPlan/siebel-architecture-overview.html#Language-Pack-Installation
         14h00 - 18h00 : XML
     Vendredi 17/01 :
-        09h00 - 13h00 : Siebel
+        09h00 - 13h00 :
+            Siebel :
+                Siebel Tools :
+                    https://docs.oracle.com/cd/E95904_01/books/UsingTools/using-siebel-tools.html#ariaid-title1
         14h00 - 18h00 : PL/SQL
 Semaine 4 :
     Lundi 20/01 :
