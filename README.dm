@@ -3,11 +3,15 @@ Semaine 3 :
     Mercredi 15/01 :
         09h00 - 13h00 :
             Siebel :
-                Fundamentals Guide:
+                Fundamentals Guide :
                     https://docs.oracle.com/cd/F26413_09/books/FundOUI/fundamentals-guide.pdf
         14h00 - 18h00 : Javascript / TypeScript/ HTML5 / CSS3
     Jeudi 16/01 :
-        09h00 - 13h00 : Siebel
+        09h00 - 13h00 :
+            09h00 - 13h00 :
+            Siebel :
+                Architecture de Siebel :
+                    https://docs.oracle.com/cd/F26413_09/books/DeplmtPlan/siebel-architecture-overview.html#Language-Pack-Installation
         14h00 - 18h00 : XML
     Vendredi 17/01 :
         09h00 - 13h00 : Siebel
